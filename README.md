@@ -1,4 +1,4 @@
-## Open Source funcoin (CLO) Mining Pool
+## Open Source funcoin (FUNC) Mining Pool
 
 ![Main page of open-FUNCOIN-pool](https://funcoin.io/pic/pool.jpg)
 
