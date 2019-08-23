@@ -1,6 +1,9 @@
-## Open Source funcoin (FUNC) Mining Pool
+## Open Source funcoin (FUNC) Mining Pool V1
 
 ![Main page of open-FUNCOIN-pool](https://funcoin.io/pic/pool.jpg)
+
+## Open Source funcoin (FUNC) Mining Pool V2
+![Main page of open-FUNCOIN-pool](https://funcoin.io/pic/NEW_UI.jpg)
 
 
 ### Features  
